@@ -1,0 +1,34 @@
+.Table-Container th{
+    color: #394148;
+    font-size: 16px !important;
+    font-family: 'Trebuchet MS';
+}
+
+.Main-Num{
+    height: 70px;
+    overflow-y: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.Page-Numbers{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+}
+
+.Page-Numbers > li {
+    margin-right: 0.3em;
+    color: #6c7d7d;
+    user-select: none;
+    cursor: pointer;
+}
+
+.Active{
+    color: #033152;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  border-radius: 100px;
+  background-color: whitesmoke;
+}

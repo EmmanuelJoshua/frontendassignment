@@ -1,0 +1,19 @@
+ .UrlText{
+   z-index: 99;
+    font-size: 16px !important;
+    font-family: 'Trebuchet MS';
+    border-color: white !important;
+  }
+  
+.Search{
+    color: white;
+    border: 1px solid #6C757D !important;
+    font-size: 16px !important;
+    font-family: 'Trebuchet MS';
+  }
+  
+  .Search:hover{
+    
+    background-color: #394148 !important;
+    color: #ffffff !important;
+  }
