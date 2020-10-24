@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Trebuchet MS';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Trebuchet MS'), url(./assets/trebuc.woff)  format('woff');
+  }
+
 .App-Header{
   height: 100px;
   background-color: #24292E;
